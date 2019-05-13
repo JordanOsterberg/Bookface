@@ -1,0 +1,17 @@
+.postTransition-enter {
+  opacity: 0.01;
+}
+
+.postTransition-enter.postTransition-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.postTransition-leave {
+  opacity: 1;
+}
+
+.postTransition-leave.postTransition-leave-active {
+  opacity: 0.01;
+  transition: opacity 300ms ease-in;
+}

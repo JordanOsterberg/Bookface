@@ -1,0 +1,27 @@
+.post {
+    margin-top: 15px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.post .mr-3 {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 37.5px;
+}
+
+.post .meme {
+    overflow: cover;
+    max-width: 90%;
+}
+
+.post h4 {
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.post p {
+    margin-bottom: 5px;
+}

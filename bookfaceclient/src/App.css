@@ -1,0 +1,18 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
+}
+
+.navbar {
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    background-color: white;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.small-container {
+	margin: auto;
+    margin-top: 10px;
+	width: 50%;
+}

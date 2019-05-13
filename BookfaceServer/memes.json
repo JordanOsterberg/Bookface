@@ -1,0 +1,26 @@
+[
+  {
+    "type": "image",
+    "mediaUrl": "../../../PartyParrot.gif"
+  },
+  {
+    "type": "video",
+    "mediaUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "type": "video",
+    "mediaUrl": "../meme.mp4"
+  },
+  {
+    "type": "image",
+    "mediaUrl": "../flavorstone.jpeg"
+  },
+  {
+    "type": "image",
+    "mediaUrl": "../thanos2.jpeg"
+  },
+  {
+    "type": "image",
+    "mediaUrl": "../thanos3.jpg"
+  }
+]

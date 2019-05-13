@@ -1,0 +1,8 @@
+.adminGrid {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+
+.adminGrid h1 {
+    text-align: center;
+}

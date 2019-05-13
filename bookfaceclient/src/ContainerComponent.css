@@ -1,0 +1,14 @@
+.ad {
+    position: absolute;
+    max-width: 20%;
+}
+
+.ad-left {
+    top: 50px;
+    left: 30px;
+}
+
+.ad-right {
+    top: 50px;
+    right: 2%;
+}
